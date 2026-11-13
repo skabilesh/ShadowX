@@ -1,0 +1,1 @@
+window.SHADOWX_FIREBASE={apiKey:"AIzaSyDBNbPZxQzQs1p6renfSiHdwv9xym4zze8",authDomain:"team-shadowx.firebaseapp.com",projectId:"team-shadowx",storageBucket:"team-shadowx.firebasestorage.app",messagingSenderId:"823860573514",appId:"1:823860573514:web:8355a930902aa822bfbdb3",measurementId:"G-FYKWBL8RYZ",ownerUid:"HN8XRb8Wz4OynDzkZgtonOl9hJK2"};

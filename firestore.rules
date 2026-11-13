@@ -1,0 +1,5 @@
+rules_version = '2';
+service cloud.firestore { match /databases/{database}/documents {
+match /site/records { allow read: if true; allow create, update, delete: if request.auth != null && request.auth.uid == "HN8XRb8Wz4OynDzkZgtonOl9hJK2"; }
+match /site/records/certificates/{certificateId} { allow read: if true; allow create, update, delete: if request.auth != null && request.auth.uid == "HN8XRb8Wz4OynDzkZgtonOl9hJK2"; }
+} }
